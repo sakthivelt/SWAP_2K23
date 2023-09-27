@@ -43,18 +43,21 @@ const Feedback = () => (
           className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"
         /> */}
 
-<iframe 
+{/* <iframe 
 width="560" 
 height="315" 
 className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"
-src="https://www.youtube.com/embed/5MP8K6ObROM?si=evmdRFBGvvdCT4nQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+src="https://youtu.be/LZBTNc90BDg?si=3Ep-NeJPFhx3bs89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> */}
 
+<iframe width="560" height="315" 
+className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"
+src="https://www.youtube.com/embed/LZBTNc90BDg?si=3Ep-NeJPFhx3bs89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <motion.div
           variants={zoomIn(0.4, 1)}
           className="lg:block hidden absolute -left-[10%] top-[3%]"
         >
           <img
-            src="/stamp.png"
+            src="http://drive.google.com/uc?export=view&id=1Vy2py6eOjqf1yWvdit_PY6n2bBFPDsXz"
             alt="stamp"
             className="w-[155px] h-[155px] object-contain"
           />

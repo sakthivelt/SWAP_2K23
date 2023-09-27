@@ -21,7 +21,7 @@ const GetStarted = () => (
         className={`flex-1 ${styles.flexCenter}`}
       >
         <img
-          src="/get-started.png"
+          src="http://drive.google.com/uc?export=view&id=1x-FL2gzd7fBbxmr2GIt1jEUxKbU70BQ5"
           alt="get-started"
           className="w-[90%] h-[90%] object-contain"
         />
@@ -31,7 +31,7 @@ const GetStarted = () => (
         className="flex-[0.75] flex justify-center flex-col"
       >
         <TypingText title="| How?" />
-        <TitleText title={<>Web Developement (using ChatGPT)</>} />
+        <TitleText title={<>Web Builder (using ChatGPT)</>} />
         <div className="mt-[31px] flex flex-col max-w-[370px] gap-[24px]">
           {startingFeatures.map((feature, index) => (
             <StartSteps

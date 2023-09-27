@@ -8,20 +8,20 @@ export const technicalEvents = [
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'Web Developement (using ChatGPT)',
+    title: 'Web Builder (using ChatGPT)',
     discription:"where creativity meets artificial intelligence, participants to build dynamic applications."
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Code to Query',
-    discription:"dive into the world of data with Code to Query, participants unravel complex databases with precision."
+    title: 'Query Hunt',
+    discription:"dive into the world of data with Query Hunt, participants unravel complex databases with precision."
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Slide Fest',
-    discription:"join us at Slide Fest 2k23 for an enlightening exchange of ideas and knowledge!"
+    title: 'Expository',
+    discription:"join us at Expository 2k23 for an enlightening exchange of ideas and knowledge!"
   },
   {
     id: 'world-5',
@@ -61,7 +61,7 @@ export const insights = [
   },
   {
     imgUrl: '/planet-07.png',
-    title: 'ADs-UP',
+    title: 'ADS-ZAP',
     subtitle:
         "ADs Up at SWAP 2K23: A unique challenge where participants showcase their communication and marketing prowess by selling innovative products. Join the ADs Up event at SWAP 2K23 and witness participants' creativity and charisma in action as they pitch and sell their products.",
   },

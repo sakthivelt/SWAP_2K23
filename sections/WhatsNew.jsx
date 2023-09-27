@@ -21,7 +21,7 @@ const WhatsNew = () => (
         className="flex-[0.95] flex justify-center flex-col"
       >
         <TypingText title="| How ?" />
-        <TitleText title={<>Code to Query</>} />
+        <TitleText title={<>Query Hunt</>} />
         <div className="mt-[48px] flex flex-wrap justify-between gap-[24px]">
           {newFeatures.map((feature) => (
             <NewFeatures key={feature.title} {...feature} />
@@ -34,7 +34,7 @@ const WhatsNew = () => (
         className={`flex-1 ${styles.flexCenter}`}
       >
         <img
-          src="/whats-new.png"
+          src="http://drive.google.com/uc?export=view&id=1h7RECJat_WSO_XFDRe9porSZ3KhhLWOZ"
           alt="get-started"
           className="w-[90%] h-[90%] object-contain"
         />
