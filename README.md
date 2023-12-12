@@ -10,8 +10,6 @@ Check out the live demo: [SWAP 2K23 Demo](#)
 
 - [Features](#features)
 - [Installation](#installation)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -42,21 +40,11 @@ Check out the live demo: [SWAP 2K23 Demo](#)
    npm run dev
 ```
 
-## Folder Structure
+## License
 
-/swap2k23
-|-- /client
-|   |-- ... [React components and files]
-|-- /server
-|   |-- ... [Node.js server files]
-|-- /public
-|   |-- ... [Static assets]
-|-- /config
-|   |-- ... [Configuration files]
-|-- .gitignore
-|-- package.json
-|-- README.md
-|-- ... [Mention other important files]
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 
 
 
