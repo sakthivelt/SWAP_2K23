@@ -33,12 +33,12 @@ Check out the live demo: [SWAP 2K23 Demo](#)
    cd swap2k23
    ```
    
-2.Install dependencies:
+   2.Install dependencies:
 
-```bash
+   ```bash
    npm install
    npm run dev
-```
+   ```
 
 ## License
 
