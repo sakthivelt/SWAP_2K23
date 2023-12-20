@@ -4,7 +4,7 @@ SWAP 2K23 is a real-time application developed for the National Level Tech Sympo
 
 ## Demo
 
-Check out the live demo: [SWAP 2K23 Demo](https://swap2k23.web.app/)
+Check out the live demo: [SWAP 2K23 Demo](https://swap2k23-journy.web.app/)
 
 ## Table of Contents
 
